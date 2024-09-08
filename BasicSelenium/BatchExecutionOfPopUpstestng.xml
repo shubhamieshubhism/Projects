@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="PopUps.FramesPopUp"/>
+      <class name="PopUps.WindowHandlingEx2"/>
+      <class name="PopUps.AlertPopUp"/>
+      <class name="PopUps.Calender"/>
+      <class name="PopUps.WindowsSwitching"/>
+      <class name="PopUps.AuthenticattionPopUp"/>
+      <class name="PopUps.FileUploadPopUp"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
