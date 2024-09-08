@@ -20,7 +20,7 @@ As an Automation Tester, I specialize in designing and developing automated test
 | **Database**      | SQL (MySQL, Oracle, etc.)                             |
 | **Version Control**| Git, GitHub                                           |
 | **Build Tools**   | Maven                                                 |
-| **CI/CD**         | Jenkins (or mention others)                           |
+| **CI/CD**         | Jenkins                           |
 | **Test Frameworks**| TestNG, JUnit                                         |
 | **Reporting**     | Extent Reports, Allure                                |
 
